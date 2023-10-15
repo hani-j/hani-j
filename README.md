@@ -1,9 +1,11 @@
 <h2>Haeun's github 👋</h2>
 
-### About Me
-<img src="https://img.shields.io/badge/42Seoul-000000?style=for-the-badge&logo=42&logoColor=white"/>
+- 꿈꾸는 개발자, 즐기는 개발자
+  
+- 42Seoul 5기로 공통과정을 수료하였습니다.
 
-### Tech Stack
+<h2>Tech Stack</h2>
+
 - Language: <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/java-FF9A00?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
 
 - Database: <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -13,8 +15,6 @@
 
 ### Learning
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-
-### Project
 
 ### Git Stat
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
